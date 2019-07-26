@@ -1,0 +1,16 @@
+{
+  "name": "broken-verdaccio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "verdaccio"
+  },
+  "keywords": [],
+  "author": "Filip Weiss <me@fiws.net>",
+  "license": "ISC",
+  "dependencies": {
+    "verdaccio": "^4.1.0",
+    "verdaccio-google-cloud": "0.0.10"
+  }
+}

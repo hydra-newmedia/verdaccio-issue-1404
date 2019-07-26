@@ -1,0 +1,14 @@
+store:
+  google-cloud:
+   ## google project id
+   projectId: test
+
+   ## namespace for metadata database
+   kind: verdaccioMetadata
+
+   ## this pluging do not create the bucket, it has to exist
+   bucket: test
+
+   ## google cloud recomend this file only for development
+   ## this field is not mandatory
+   keyFilename: ./service-account.json
