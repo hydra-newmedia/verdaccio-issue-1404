@@ -10,7 +10,7 @@
   "author": "Filip Weiss <me@fiws.net>",
   "license": "ISC",
   "dependencies": {
-    "verdaccio": "^4.1.0",
+    "verdaccio": "^5.19.1",
     "verdaccio-google-cloud": "0.0.10"
   }
 }
